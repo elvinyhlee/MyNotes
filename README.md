@@ -8,4 +8,4 @@ Hello World
 hi
 :::
 
-[go to other page](./hello.md)
+[go to other page](hello.md)
