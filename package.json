@@ -1,0 +1,15 @@
+{
+  "name": "MyNotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elvinyhlee/MyNotes.git",
+  "author": "elvinyhlee <elvin.lee@bowtie.com.hk>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^12.12.0"
+  }
+}
